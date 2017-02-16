@@ -10,11 +10,13 @@ https://developer.teradata.com/tools/articles/teradata-sqlalchemy-introduction
   
   > source : https://community.teradata.com/t5/Connectivity/Connecting-Python-to-Teradata-over-ODBC/m-p/56824
   
-  import pyodbc
+  ```  
+  import pyodbc </code> <\n>
   connection = pyodbc.connect('DSN=_ODBCDRIVER NAME_;UID=xxxx;PWD=xxx')
   cursor = connection.cursor()
   cursor.execute("select top 10 * from schema.table")
   results = cursor.fetchall()
   print(results)
   connection.close()
+  ```
 
