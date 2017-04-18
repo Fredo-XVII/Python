@@ -19,4 +19,21 @@ https://developer.teradata.com/tools/articles/teradata-sqlalchemy-introduction
   print(results)
   connection.close()
   ```
+-----
 
+# PYSTACK:
+
+### MUNGING & ADHOC ANALYSIS:
+PANDAS, SCIPY, BEAUTIFULSOUP
+
+### VISUALIZATION:
+MATPLOTLIB, SEABORN, BOKEH, GGPLOT2
+
+### MODEL BUILDING:
+SCIKIT-LEARN, STATSMODELS
+
+### SERVING RESULTS OR MODELS:
+FLASK, DJANGO, TORNADO
+
+### TESTING:
+PYTEST, PYUNIT, NOSE
