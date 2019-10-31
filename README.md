@@ -6,7 +6,7 @@ https://developer.teradata.com/tools/articles/teradata-sqlalchemy-introduction
 
 ## ODBC to Teradata
 
-  > source : http://wiki.target.com/tgtwiki/index.php/Insights_A%26R/EDW
+  > source : 
   
   > source : https://community.teradata.com/t5/Connectivity/Connecting-Python-to-Teradata-over-ODBC/m-p/56824
   
